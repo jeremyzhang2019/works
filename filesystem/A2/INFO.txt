@@ -1,0 +1,5 @@
+lingxiang zhang
+zhan1704
+
+Discussion
+In this assignment, starvation may happen when infinite cars are coming to the intersection. For example, lane 1's threat is the fastest threat among others, since there are infinite cars are coming to the intersection through lane 1, then other lanes may never have chance to get cross.
